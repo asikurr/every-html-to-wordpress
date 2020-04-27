@@ -1,0 +1,163 @@
+@media screen and (max-width:1024px){
+	.tp-leftarrow.default {display:none;}
+	.tp-rightarrow.default {display:none;}
+	#team-bg .team-txt p{line-height:1.3;}
+	#our-etp .text{top:15px;}
+	#our-etp .text h1{font-size:30px;}
+	#filters{left:15%;}
+	#isotope .element-item {width:50%;}
+	#team .icon {margin: 15px 0;}
+	#team .t-content {top: 70%;right: 30%;}
+	p.text{width:60%;}
+	#client .brand ul>li{margin: 0 10px;}
+	.rel-img{width:172px;}
+	.cr{width:169px;}
+	#contact-us .c-icon ul li{width:122px;}
+	.team-txt{padding-left:25px;font-size:13px;}
+	#news .n-txt h3 {font-size: 18px;}
+    h3.title {margin: 30px 0 30px 10%;}
+    .t-overlay {padding:15px 25px;}
+    #slide .s-bg h1 {font-size: 48px;}
+    #slide .slide h3 {padding: 12px 0 0 15px;}
+    #slide .s-bg h3 {padding-top: 0;}
+
+@media screen and (max-width:768px){
+	.rm-nav li, .rm-menu-item{padding:15px 15px 0;border:0;}
+	.rm-nav li ul li ul li a, .rm-nav li ul li a {padding: 0;}
+	
+	.tp-caption h1 {font-size: 40px;}
+	#contact-us .c-icon ul li{font-size:18px;width:92px;}
+	#contact-us .contact{margin-top:-75px;}
+	#contact-us .over-txt h2{font-size:18px;}
+	#team .t-box{max-width:292px;margin:15px auto;}
+	.team-txt{padding-left:25px;font-size:13px;}
+	.n-box{margin:15px auto;max-width:390px;padding-bottom:20px;}
+	.s-box{margin:15px auto;max-width:390px;padding-bottom:20px;}
+	.b-ic{margin:15px auto;max-width:390px;padding-bottom:20px;}
+    #our-etp .text h1 {margin-top:10px;}
+    #our-etp .text p{margin-bottom:15px;}
+    #our-etp .text>.btn-default {padding:0 50px 0 15px;}
+    h3.title {margin: 30px 0 30px 4%;}
+    #filters {left: 10%;}
+    #isotope .item-box:hover .is-overlay {height: 100px;}
+    #isotope .item-box:hover .is-overlay h3 {font-size: 20px;margin-top: 10px;}
+    #isotope .is-overlay a {font-size: 24px;}
+    section#f-menu .navbar-header {margin-left: 20%;margin-bottom: 15px;}
+    #f-menu .navbar-right {margin-right: 25%;}
+    .t-overlay {padding: 90px 25px;}
+    #about .a-us h5 {margin-top: 30px;}
+    #client .brand ul>li{margin: 0 5px;}
+}
+@media screen and (max-width: 767px){
+	
+}
+@media screen and (max-width: 640px){
+	#header{display:none;}
+	#client .brand ul>li{margin-bottom:20px;width:100%;}
+	.feature { padding-top: 0;}
+	
+	#revolution{display:none;}
+	#isotope .element-item{width:100%;}
+	#team-bg {display:none;}
+	#service .s-box {
+		padding-bottom: 20px;
+	}
+	#client .carousel-control.right{right:48%;}
+	#client .carousel-control.left{left:39%;}
+	#contact-us .c-icon ul li{font-size:14px;width:75px;}
+    #our-etp .text {top: 25%;}
+    #isotope {text-align: center;}
+    h3.title {display: block;margin: 20px 0;}
+    #filters {display: block;left: 0;margin-bottom: 15px;}
+    #isotope .item-box:hover .is-overlay {height: 120px;}
+    #isotope .item-box:hover .is-overlay h3 {font-size: 24px;margin-top: 15px;}
+    #isotope .is-overlay a {font-size: 30px;}
+    #team .t-content {top: 20px;right: 5px;}
+    .t-overlay {padding: 90px 25px;}
+    section#f-menu .navbar-header {margin-left: 15%;margin-bottom: 5px;}
+    #blog .pagination {float: none;margin-bottom: 50px;}
+    .a-icon {margin-bottom: 40px;}
+}
+@media screen and (max-width: 480px){
+	#header{display:none;}
+	
+	
+	#revolution{display:none;}
+	#business .business h1{font-size:26px;}
+	#business .business h3{font-size:15px;}
+	#our-etp .text{top:20%;}
+	#our-etp .text h1{font-size:26px;}
+	#filters{left:0;}
+	#isotope .element-item{width:100%;}
+	#service .s-box {padding-bottom: 20px;}
+	#blog .b-txt{padding-left:0;}
+	#blog .calender {
+		position: relative;
+		font-size: 30px;
+		width: 100%;
+		line-height: 1;
+		margin-bottom: 20px;
+	}
+	.rel-img {width: 100% !important;}
+	#team .t-box{width:100%;margin:15px auto;}
+	.s-box{margin:15px auto;max-width:390px;}
+	.b-ic{margin:15px auto;max-width:390px;}
+	.n-box{margin:15px auto;max-width:390px;}
+	p.text,
+	p.txt{width:100%;}
+	#team-bg {display:none;}
+	#our-etp .text p { margin: 0 0 8px;}
+	.contact,
+	.over-txt{display:none;}
+	#slide .sbg h1{font-size:50px;}
+	#slide .s-bg h1{font-size:30px;}
+	#slide .sbg h3{font-size:22px;}
+	#slide .s-bg h3{font-size:16px;}
+	.a-icon { margin: 40px 0;}
+	#client .carousel-control.right{right:48%;}
+	#client .carousel-control.left{left:39%;}
+	.rel-img,
+	.comment-form{margin-bottom:30px;}
+	#client .brand ul>li{margin-bottom:20px;width:100%;}
+    section#f-menu .navbar-header {margin-left: 0;}
+}
+
+
+@media screen and  (max-width: 320px){
+	#header{display:none;}
+	
+	
+	#client .brand ul>li{margin-bottom:20px;width:100%;}
+	#service .s-box {
+		padding-bottom: 20px;
+	}
+	#revolution{display:none;}
+	#about .about-us h1{font-size:42px;}
+	.children { padding-left: 0;}
+	#business .business h1{font-size:26px;}
+	#business .business h3{font-size:15px;}
+	#our-etp .text{top:0;}
+	#our-etp .text h1{font-size:26px;}
+	#filters{left:0;}
+	.n-box{margin-bottom:30px;}
+	p.text,
+	p.txt{width:100%;}
+	#team-bg {display:none;}
+	.contact,
+	.over-txt{display:none;}
+	#slide .sbg h1{font-size:50px;}
+	#slide .s-bg h1{font-size:24px;}
+	#slide .sbg h3{font-size:22px;}
+	#slide .s-bg h3{font-size:13px;}
+	.a-icon { margin: 40px 0;}
+	#client .carousel-control.right{right:48%;}
+	#client .carousel-control.left{left:39%;}
+	#client .brand ul>li{margin: 8px;}
+	.rel-img,
+	.comment-form{margin-bottom:30px;}
+    #isotope .item-box:hover .is-overlay {height: 80px;}
+    #isotope .item-box:hover .is-overlay h3 {font-size: 16px;margin-top: 10px;margin-bottom: 5px;}
+    #isotope .is-overlay a {font-size: 18px;}
+    .t-overlay {padding: 70px 25px;}
+}
+
